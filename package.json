@@ -1,0 +1,22 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Expresswork nodeschool.io workshop passing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leshikhacker/expressworks.git"
+  },
+  "author": "leshikhacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshikhacker/expressworks/issues"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "homepage": "https://github.com/leshikhacker/expressworks#readme"
+}
