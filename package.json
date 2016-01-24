@@ -18,7 +18,8 @@
   "dependencies": {
     "express": "*",
     "jade": "*",
-    "body-parser": "*"
+    "body-parser": "*",
+    "stylus": "*"
   },
   "homepage": "https://github.com/leshikhacker/expressworks#readme"
 }
