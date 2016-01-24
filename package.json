@@ -16,7 +16,8 @@
     "url": "https://github.com/leshikhacker/expressworks/issues"
   },
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "jade": "*"
   },
   "homepage": "https://github.com/leshikhacker/expressworks#readme"
 }
